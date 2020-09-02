@@ -27,5 +27,8 @@ Vegetales:
 	Adidas
 	Sony
 	Microsoft
-	
+	Hp
+	Toshiba
+	Dell
+	Sabritas
 	
