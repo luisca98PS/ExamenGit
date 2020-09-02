@@ -16,6 +16,10 @@ Verduras:
 	Col
 	Tomate
 	Zanahoria
+	PS4
+	Xbox
+	Nintendo
+	Stadia
 Vegetales:
 	Papa
 	Perejil
