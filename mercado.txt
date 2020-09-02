@@ -1,0 +1,23 @@
+Frutas:
+	Manzana
+	Mango
+	Platano
+	Fresa
+	Naranja
+	Durazno
+Verduras:
+	Brocoli
+	Espinaca
+	Lechuga
+	Col
+	Tomate
+	Zanahoria
+Vegetales:
+	Papa
+	Perejil
+	Nike
+	Adidas
+	Sony
+	Microsoft
+	
+	
