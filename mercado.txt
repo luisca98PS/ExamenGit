@@ -5,6 +5,10 @@ Frutas:
 	Fresa
 	Naranja
 	Durazno
+	Uva
+	Pera
+	Guayaba
+	Mandarina
 Verduras:
 	Brocoli
 	Espinaca
